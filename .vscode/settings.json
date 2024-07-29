@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\joaoz\\Downloads\\BatalhaTADSmon(1).jar",
+        "c:\\Users\\joao\\Downloads\\BatalhaTADSmon.jar"
+    ]
+}
